@@ -1,0 +1,23 @@
+{
+  "name": "chat",
+  "version": "1.0.0",
+  "description": "chat",
+  "main": "index.js",
+  "scripts": {
+    "test": "chat"
+  },
+  "repository": {
+    "type": "git",
+    "url": "chat"
+  },
+  "keywords": [
+    "chat"
+  ],
+  "author": "seo",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.3",
+    "request": "^2.88.2",
+    "socket.io": "^4.4.1"
+  }
+}
